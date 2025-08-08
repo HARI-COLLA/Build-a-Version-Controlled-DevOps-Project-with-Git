@@ -16,6 +16,10 @@ To manage a DevOps project using Git best practices like branching, pull request
 
 ## 📝 Workflow Followed
 
+<img width="1662" height="766" alt="image" src="https://github.com/user-attachments/assets/8babc246-1cf1-40b3-bf21-549df964457b" />
+
+
+
 1. Initialized Git repo and pushed to GitHub
 2. Created `dev` and `feature/login` branches
 3. Made commits on feature branch
